@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 .DS_Store
+checkpoint
+params.p
 preprocess.p
+save.*
+.floyddata
+.floydexpt
+.floydignore
