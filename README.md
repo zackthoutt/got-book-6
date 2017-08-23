@@ -35,6 +35,15 @@ They decide to let the dogs make decisions...
 It ends on a weird note during a winter storm with Jon's Targaryen side coming out in full color... 
 > Once, she thought, it was wrong, climbing through the cloudless terrible light noise that was no last snow. Jon did not need to share a cup or part of it, but maybe this, a fat little blind girl.
 
+# Training the Model
+
+If you would like to train this model, you will need to use a GPU and Tensorflow 1.0. I used FloydHub with the following command:
+```
+floyd run <your-project-id> --gpu --env tensorflow-1.0 --mode jupyter
+```
+
+The text data can be found many places online. 
+
 # Contributing
 
 There are still so many unanswered questions. Is Jon actually a Lannister-Targaryen? How will the dogs rule the seven kingdoms? Why did Varys poison Daenerys? Who are the seconds sons of the onion concubine? 
