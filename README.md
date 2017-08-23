@@ -20,7 +20,7 @@ Ned is still alive and Jon is a Lannister!
 Varys poisons Daenerys and a dead man.
 > Varys poisoned Daenerys and another of the dead men. As he woke, it was a peaceful song, and now the low and the dawn was breaking up and there no smaller, robar the broken bones.
 
-John rides a dragon and starts to get a little preverted...
+Jon rides a dragon and starts to get a little preverted...
 > Jon rode the dragons in a steep circle, buried fingers in the sand and there a burnt slope. “With a man should leave us clean, wench,” he said. “Stop him. Is that much? Until you’re at Winterfell simply get inside ’em o’ wildlings, or on the sound of a bastard dies.”
 
 Lord Friendzone is off eating stew with chunks of butter...
@@ -34,6 +34,14 @@ They decide to let the dogs make decisions...
 
 It ends on a weird note during a winter storm with Jon's Targaryen side coming out in full color... 
 > Once, she thought, it was wrong, climbing through the cloudless terrible light noise that was no last snow. Jon did not need to share a cup or part of it, but maybe this, a fat little blind girl.
+
+# Training the Model
+
+If you would like to reproduce my work, you'll need to train the network on a GPU with Tensorflow 1.0.0. I used FloydHub to train my network with the following command:
+
+```
+floyd run <your-project-id> --gpu --env tensorflow-1.0 --mode jupyter
+```
 
 # Contributing
 
