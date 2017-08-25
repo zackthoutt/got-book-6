@@ -20,7 +20,7 @@ Ned is still alive and Jon is a Lannister!
 Varys poisons Daenerys and a dead man.
 > Varys poisoned Daenerys and another of the dead men. As he woke, it was a peaceful song, and now the low and the dawn was breaking up and there no smaller, robar the broken bones.
 
-John rides a dragon and starts to get a little preverted...
+Jon rides a dragon and starts to get a little perverted...
 > Jon rode the dragons in a steep circle, buried fingers in the sand and there a burnt slope. “With a man should leave us clean, wench,” he said. “Stop him. Is that much? Until you’re at Winterfell simply get inside ’em o’ wildlings, or on the sound of a bastard dies.”
 
 Lord Friendzone is off eating stew with chunks of butter...
@@ -48,4 +48,4 @@ The text data can be found many places online.
 
 There are still so many unanswered questions. Is Jon actually a Lannister-Targaryen? How will the dogs rule the seven kingdoms? Why did Varys poison Daenerys? Who are the seconds sons of the onion concubine? 
 
-If you would like to help sing the song of fire and ice, feel free to use this repository, put up pull requests, and offer advice on how to improve the model. I'm still fairly new to neural networks, so any help would be greatly appreciated.
+If you would like to help sing the song of fire and ice, feel free to use this repository and offer advice on how to improve the model. I'm still fairly new to neural networks, so any help would be greatly appreciated. I will consider merging pull requests if they make significant changes and improvements to the model.
