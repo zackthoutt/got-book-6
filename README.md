@@ -35,6 +35,11 @@ They decide to let the dogs make decisions...
 It ends on a weird note during a winter storm with Jon's Targaryen side coming out in full color... 
 > Once, she thought, it was wrong, climbing through the cloudless terrible light noise that was no last snow. Jon did not need to share a cup or part of it, but maybe this, a fat little blind girl.
 
+# Posted Elsewhere
+
+- [Hacker News](https://news.ycombinator.com/submitted?id=zthoutt)
+- [ASOIAF subreddit](https://www.reddit.com/r/asoiaf/comments/6vhqyr/spoilers_extended_somebody_is_training_a_neural/)
+
 # Training the Model
 
 If you would like to train this model, you will need to use a GPU and Tensorflow 1.0. I used FloydHub with the following command:
