@@ -39,6 +39,8 @@ It ends on a weird note during a winter storm with Jon's Targaryen side coming o
 
 - [Hacker News](https://news.ycombinator.com/submitted?id=zthoutt)
 - [ASOIAF subreddit](https://www.reddit.com/r/asoiaf/comments/6vhqyr/spoilers_extended_somebody_is_training_a_neural/)
+- [Vice Interview](https://motherboard.vice.com/en_us/article/evvq3n/game-of-thrones-winds-of-winter-neural-network)
+- [Motherboard Article](https://motherboard.vice.com/en_us/article/bjjp4a/winds-of-winter-neural-network)
 
 # Training the Model
 
