@@ -41,7 +41,19 @@ It ends on a weird note during a winter storm with Jon's Targaryen side coming o
 - [ASOIAF subreddit](https://www.reddit.com/r/asoiaf/comments/6vhqyr/spoilers_extended_somebody_is_training_a_neural/)
 - [Vice Interview](https://motherboard.vice.com/en_us/article/evvq3n/game-of-thrones-winds-of-winter-neural-network)
 - [Motherboard Article](https://motherboard.vice.com/en_us/article/bjjp4a/winds-of-winter-neural-network)
+- [New York Post](http://nypost.com/2017/08/29/artificial-intelligence-is-writing-the-next-game-of-thrones-book/)
+- [Observer](http://observer.com/2017/08/game-of-thrones-next-book-artificial-intelligence/)
 - [I Fucking Love Science](http://www.iflscience.com/technology/artificial-intelligence-is-attempting-to-write-the-next-game-of-thrones-book/)
+- [Futurism](https://futurism.com/the-next-five-game-of-thrones-chapters-have-been-leaked-by-an-ai/)
+- [Science Alert](https://www.sciencealert.com/everyone-s-so-sick-of-waiting-for-the-next-game-of-thrones-book-an-ai-just-wrote-it-for-us)
+- [Pedestrian](https://www.pedestrian.tv/tech/game-of-thrones-written-by-neural-network/)
+- [Gizmodo](http://io9.gizmodo.com/rest-easy-george-r-r-martin-a-computer-program-has-w-1798541924)
+- [YouTube Dramatic Reading](https://www.youtube.com/watch?v=DC7s0YsDeBo)
+- [IBTimes](http://www.ibtimes.co.uk/this-ai-just-wrote-first-five-chapters-george-rr-martins-next-book-1637086)
+- [AV Club](http://www.avclub.com/if-george-r-r-martin-wont-write-winds-of-winter-this-1798538382)
+- [eTeknix](https://www.eteknix.com/neural-network-writes-new-game-thrones-novel/)
+- [Daily Dot](https://www.dailydot.com/parsec/neural-network-winds-of-winter/)
+- [Office Chai](https://officechai.com/news/tired-waiting-next-game-thrones-book-engineer-builds-neural-network-write/)
 
 # Training the Model
 
