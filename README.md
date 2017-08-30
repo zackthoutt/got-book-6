@@ -41,6 +41,7 @@ It ends on a weird note during a winter storm with Jon's Targaryen side coming o
 - [ASOIAF subreddit](https://www.reddit.com/r/asoiaf/comments/6vhqyr/spoilers_extended_somebody_is_training_a_neural/)
 - [Vice Interview](https://motherboard.vice.com/en_us/article/evvq3n/game-of-thrones-winds-of-winter-neural-network)
 - [Motherboard Article](https://motherboard.vice.com/en_us/article/bjjp4a/winds-of-winter-neural-network)
+- [Udacity Blog](http://blog.udacity.com/2017/08/neural-network-game-of-thrones.html)
 - [New York Post](http://nypost.com/2017/08/29/artificial-intelligence-is-writing-the-next-game-of-thrones-book/)
 - [Observer](http://observer.com/2017/08/game-of-thrones-next-book-artificial-intelligence/)
 - [I Fucking Love Science](http://www.iflscience.com/technology/artificial-intelligence-is-attempting-to-write-the-next-game-of-thrones-book/)
