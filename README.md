@@ -42,6 +42,7 @@ It ends on a weird note during a winter storm with Jon's Targaryen side coming o
 - [Vice Interview](https://motherboard.vice.com/en_us/article/evvq3n/game-of-thrones-winds-of-winter-neural-network)
 - [Motherboard Article](https://motherboard.vice.com/en_us/article/bjjp4a/winds-of-winter-neural-network)
 - [Udacity Blog](http://blog.udacity.com/2017/08/neural-network-game-of-thrones.html)
+- [Tencent Interview](http://tech.qq.com/a/20170906/074791.htm)
 - [New York Post](http://nypost.com/2017/08/29/artificial-intelligence-is-writing-the-next-game-of-thrones-book/)
 - [Huffington Post](http://www.huffingtonpost.co.uk/entry/ai-plot-game-of-thrones_uk_59a6a59ce4b063ae34da24bb)
 - [Business Insider](http://www.businessinsider.com/ai-just-wrote-the-next-book-of-game-of-thrones-for-us-2017-8)
