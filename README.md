@@ -55,6 +55,22 @@ It ends on a weird note during a winter storm with Jon's Targaryen side coming o
 
 And many other places on [Google](https://www.google.com/search?q=zack+thoutt+game+of+thrones&oq=zack+thoutt+g&aqs=chrome.0.69i59j69i60l3j69i57.1918j0j4&sourceid=chrome&ie=UTF-8)
 
+# Connect with me
+
+If you'd like to collaborate on a project, learn more about me, or just say hi, feel free to contact me using any of the social channels listed below.
+
+- [Personal Website](https://zackthoutt.com)
+- [Email](mailto:zackarey.thoutt@colorado.edu)
+- [LinkedIn](https://www.linkedin.com/in/zack-thoutt-57275655/)
+- [Twitter](https://twitter.com/zthoutt)
+- [Medium](https://medium.com/@zthoutt)
+- [Quora](https://www.quora.com/profile/Zack-Thoutt)
+- [HackerNews](https://news.ycombinator.com/submitted?id=zthoutt)
+- [Reddit](https://www.reddit.com/user/zthoutt/)
+- [Kaggle](https://www.kaggle.com/zynicide)
+- [Instagram](https://www.instagram.com/zthoutt/)
+- [500px](https://500px.com/zthoutt)
+
 # Training the Model
 
 If you would like to train this model, you will need to use a GPU and Tensorflow 1.0. I used FloydHub with the following command:
