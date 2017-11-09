@@ -11,6 +11,8 @@ Reek is still annoying people...
 A new protagonist named Greenbeard is intorduced to the plot...
 > “Aye, Pate.” the tall man raised a sword and beckoned him back and pushed the big steel throne to where the girl came forward. Greenbeard was waiting toward the gates, big blind bearded pimple with his fallen body scraped his finger from a ring of white apple. It was half-buried mad on honey of a dried brain, of two rangers, a heavy frey.
 
+Greenbeard is actually a minor character in the [ASOIAF books](http://awoiaf.westeros.org/index.php/Greenbeard)
+
 Hodor comes back and can say something other than "Hodor!"
 > Hodor looked at them bellowing, “which road you should be home.”
 
